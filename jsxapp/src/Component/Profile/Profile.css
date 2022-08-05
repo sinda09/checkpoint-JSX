@@ -1,6 +1,15 @@
 .App {
-  background-color: antiquewhite;
+  background-color: violet;
   text-align: center;
+}
+.mb-3 {
+  color: brown;
+}
+.name {
+  color: bisque;
+}
+.add {
+  color: aliceblue;
 }
 .App-logo {
   height: 40vmin;
@@ -35,9 +44,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-.adr {
-  color: black;
-  size-adjust: 16 px;
-  margin-right: auto;
 }
